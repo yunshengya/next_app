@@ -2,11 +2,6 @@
 const config = {
   plugins: {
     tailwindcss: {},
-  },
-  logging: {
-    fetches: {
-      fullUrl: true
-    }
   }
 };
 
